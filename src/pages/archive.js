@@ -131,7 +131,7 @@ const ArchivePage = ({ location, data }) => {
               </tr>
             </thead>
             <tbody>
-              {projects.length > 0 &&
+              {projects?.length > 0 &&
                 projects.map(({ node }, i) => {
                   const { date, github, external, title, tech, company } = node.frontmatter;
                   return (
@@ -145,7 +145,7 @@ const ArchivePage = ({ location, data }) => {
                       </td>
 
                       <td className="tech hide-on-mobile">
-                        {tech.length > 0 &&
+                        {tech?.length > 0 &&
                           tech.map((item, i) => (
                             <span key={i}>
                               {item}
