@@ -1,15 +1,14 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
+title: 'Decentralized-Twitter Clone'
 cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+github: 'https://github.com/osazeejedi/Decentralized_twitter-Dapp'
+external: 'http://decentralized-twitter-dapp.vercel.app/'
 tech:
-  - TensorFlow.JS
-  - React
+  - ReactJS
+  - Solidity
+  - Moralis
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
-
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+A Twitter clone built using reactJS, Solidity, and Moralis API. Deployed on the polygon testnet

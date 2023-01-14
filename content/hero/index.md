@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
+name: 'Osazee Jedidiah O'
 subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
+I'm a Blockchain developer, Program Manager and Data scientist. Primarily interested in Blockchain Development and Leading teams to deploying quality products on time and in budget.
 
 I enjoy learning new skills and implementing them in real life!

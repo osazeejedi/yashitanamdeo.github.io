@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Osazee Jedidiah O.',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Osazee is an a blockchain Developer and Program Manager, based in Lagos, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Osazee Oghagbon, Osazee, jedidiah, osazeejedi, software engineer, web developer, javascript, python, solidity, smart contract developer',
+  siteUrl: 'https://osazeejedi.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
-  twitterHandle: '@',
+  googleAnalyticsID: '#',
+  googleVerification: '#',
+  name: 'Osazee Jedidiah O.',
+  location: 'Lagos, Nigeria',
+  email: 'helloosaze@gmail.com',
+  github: 'https://github.com/osazeejedi',
+  twitterHandle: '@osazee_the_jedi',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/osazeejedi',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/osazee-oghagbon/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://codepen.io/osazeejedi',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/osazee_the_jedi/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/Osazee_the_JEDi',
     },
   ],
 
